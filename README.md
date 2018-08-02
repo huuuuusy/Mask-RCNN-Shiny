@@ -27,17 +27,29 @@ Here are the demo gifs:
 This project needs these packages to suypport:
 
 numpy
+
 scipy
+
 cython
+
 h5py
+
 Pillow
+
 scikit-image
+
 tensorflow-gpu==1.8
+
 keras==2.1.6
+
 jupyter
+
 matplotlib
+
 imgaug
+
 IPython[all]
+
 opencv-python==3.4.1.15
 
 ## Usage
