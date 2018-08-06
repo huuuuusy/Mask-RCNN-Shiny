@@ -24,7 +24,7 @@ Here are the demo gifs:
 
 ## Requirements
 
-This project needs these packages to suypport:
+This project needs these packages to support:
 
 numpy
 
